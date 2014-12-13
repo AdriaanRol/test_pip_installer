@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='test',
+setup(name='Adriaans_pip_test',
     version='1.0',
     description='Test pip install ',
     author='Adriaan Rol',
